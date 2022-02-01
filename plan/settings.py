@@ -139,12 +139,10 @@ SITE_ID = 1
 # EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
 # EMAIL_HOST = 'smtp.mail.ru'
 # EMAIL_PORT = 587  # 2525,
-# EMAIL_HOST_USER = 's.ump@mail.ru'
-# EMAIL_HOST_PASSWORD = '333f1650'
+# EMAIL_HOST_USER = ''
+# EMAIL_HOST_PASSWORD = ''
 # EMAIL_USE_TLS = True
 # EMAIL_USE_SSL = False
-#
-# FROM_EMAIL = 'softicer@mail.ru'
-# EMAIL_ADMIN = '9022368@mail.ru'
+
 
 
